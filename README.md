@@ -1,9 +1,9 @@
 ## Hi there 👋
-### `문제 해결에 주도적으로 나서는 프론트엔드 개발자` 
+### `문제 해결에 주도적으로 나서는 프론트엔드 🦫 `
 <br>
 <details>
   <summary>
-    흥미있어요!
+    열심히 공부하고 있어요!
   </summary>
   <br>
   <code><img height="35" src="https://skills.thijs.gg/icons?i=react&theme=light"></code>
